@@ -1,4 +1,3 @@
-#include <stdio.h>
 void my_putchar(char c);
 
 int my_strlen(const char *str)
