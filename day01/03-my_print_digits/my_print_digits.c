@@ -11,9 +11,3 @@ void my_print_digits(void)
     }
     my_putchar('\n');
 }
-
-int main()
-{
-    my_print_digits();
-    return 0;
-}
