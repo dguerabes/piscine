@@ -24,9 +24,3 @@ void my_print_comb2()
         }
     }
 }
-
-int main()
-{
-    my_print_comb2();
-    return 0;
-}
