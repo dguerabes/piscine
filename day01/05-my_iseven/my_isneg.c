@@ -4,9 +4,3 @@ void my_iseven(int n)
 {
     n % 2 == 0 ? my_putchar('E') : my_putchar('O');
 }
-
-int main()
-{
-    my_iseven(1);
-    return 0;
-}
