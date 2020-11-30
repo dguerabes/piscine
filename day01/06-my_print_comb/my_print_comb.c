@@ -28,9 +28,3 @@ void my_print_comb()
         unite++;
     }
 }
-
-int main()
-{
-    my_print_comb();
-    return 0;
-}
