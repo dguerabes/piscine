@@ -1,5 +1,4 @@
 void my_putchar(char c);
-#include <stdio.h>
 
 void my_putnbr(int n)
 {
